@@ -9,7 +9,11 @@ Whisper é um sistema de inteligência artificial criado para transformar fala e
 - **Python**  
 - **OpenAI Whisper**
 - **YT-DLP**
-- **FFmpeg**
+
+O **Whisper** requer o **FFmpeg** para processar arquivos de áudio.  
+
+- **Se estiver usando o Google Colab**, o **FFmpeg já vem pré-instalado**, então não é necessário instalar manualmente.  
+- **Se estiver rodando localmente**, certifique-se de que o **FFmpeg** está instalado no seu sistema.  
 
 ## 🚀 Funcionalidades  
 ✔ Converter vídeos em arquivos de áudio  
