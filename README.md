@@ -13,11 +13,7 @@ Whisper é um sistema de inteligência artificial criado para transformar fala e
 O **Whisper** requer o **FFmpeg** para processar arquivos de áudio.  
 
 - **Se estiver usando o Google Colab**, o **FFmpeg já vem pré-instalado**, então não é necessário instalar manualmente.  
-- **Se estiver rodando localmente**, certifique-se de que o **FFmpeg** está instalado no seu sistema.
-
-## 🛠️ Instalação do FFmpeg no Windows  
-Caso o **FFmpeg** não esteja instalado, siga as instruções no link oficial:  
-🔗 [Guia de Instalação do FFmpeg para Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)   
+- **Se estiver rodando localmente**, certifique-se de que o [**FFmpeg**](🛠️ Instalação do FFmpeg no Windows) está instalado no seu sistema.  
 
 ## 🚀 Funcionalidades  
 ✔ Converter vídeos em arquivos de áudio  
@@ -29,6 +25,10 @@ Caso o **FFmpeg** não esteja instalado, siga as instruções no link oficial:
 3️⃣ O modelo Whisper será aplicado para gerar a transcrição  
 
 ⚡ Simples, rápido e eficiente!  
+
+## 🛠️ Instalação do FFmpeg no Windows  
+Caso o **FFmpeg** não esteja instalado, siga as instruções no link oficial:  
+🔗 [Guia de Instalação do FFmpeg para Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/) 
 
 ## 📚 Referências  
 
