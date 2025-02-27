@@ -25,3 +25,15 @@ Whisper é um sistema de inteligência artificial criado para transformar fala e
 ## 🛠️ Instalação do FFmpeg no Windows  
 Caso o **FFmpeg** não esteja instalado, siga as instruções no link oficial:  
 🔗 [Guia de Instalação do FFmpeg para Windows](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)   
+
+## 📚 Referências  
+
+Durante a construção deste notebook, utilizei as seguintes fontes de informação:  
+
+- [OpenAI Whisper - Página Oficial](https://openai.com/index/whisper/) → Informações sobre o modelo Whisper  
+- [yt-dlp - PyPI](https://pypi.org/project/yt-dlp/2021.3.7/) → Biblioteca para baixar vídeos do YouTube  
+- [FFmpeg - Documentação Oficial](https://www.ffmpeg.org/documentation.html) → Guia completo sobre o uso do FFmpeg  
+- [Guia de Instalação do FFmpeg no Windows - GeeksForGeeks](https://www.geeksforgeeks.org/how-to-install-ffmpeg-on-windows/)  
+
+🔗 Caso queira aprender mais sobre essas tecnologias, confira os links acima! 🚀  
+
