@@ -5,10 +5,9 @@ Este notebook demonstra como extrair o áudio de um vídeo do YouTube e transcre
 
 ## 🛠️ Tecnologias Utilizadas  
 - **Python**  
-- **OpenAI Whisper** (para transcrição de áudio)  
-- **pytube** (para download de vídeos)  
-- **ffmpeg** (para extração de áudio)  
-
+- **OpenAI Whisper**
+- **YT-DLP**
+- **FFmpeg** 
 ## 🚀 Funcionalidades  
 ✔ Baixar vídeos do YouTube automaticamente  
 ✔ Converter vídeos em arquivos de áudio  
